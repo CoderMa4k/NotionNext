@@ -4,7 +4,7 @@ const CONFIG = {
   HEDEAR_BUTTON_1_URL: 'https://github.com/tangly1024/NotionNext',
 
   HEADER_BUTTON_2_TITLE: '作者博客',
-  HEDEAR_BUTTON_2_URL: 'https://blog.tangly1024.com/',
+  HEDEAR_BUTTON_2_URL: 'https://coderma4k.com/',
 
   // 首页大图英雄板块
   HERO_TITLE_1: 'NotionNext',
